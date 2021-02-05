@@ -1,0 +1,1 @@
+﻿{"unitName":"白露","namesInClass":["白露","時雨","村雨","夕立","春雨","五月雨","海風","山風","川風","涼風"],"instancesInClass":["shiratsuyu","shigure","murasame","yudachi","harusame","samidare","umikaze","yamakaze","kawakaze","suzukaze"]}

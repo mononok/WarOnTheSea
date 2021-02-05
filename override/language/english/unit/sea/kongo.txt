@@ -1,0 +1,1 @@
+﻿{"unitName":"金剛","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["金剛","比叡","霧島","榛名"],"instancesInClass":["kongo","hiei","kirishima","haruna"]}

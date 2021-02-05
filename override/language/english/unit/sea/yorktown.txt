@@ -1,0 +1,1 @@
+﻿{"unitName":"ヨークタウン","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ヨークタウン","エンタープライズ","ホーネット"],"instancesInClass":["yorktown","enterprise","hornet"]}

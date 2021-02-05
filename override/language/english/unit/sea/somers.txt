@@ -1,0 +1,1 @@
+﻿{"unitName":"サマーズ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["サマーズ","ウォリントン","サンプソンン","デイヴィス","ジョーエット"],"instancesInClass":["somers","warrington","sampson","davis","jouett"]}

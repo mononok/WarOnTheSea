@@ -1,0 +1,1 @@
+﻿{"unitName":"ノースカロライナ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ノースカロライナ","ワシントン"],"instancesInClass":["north carolina","washington"]}

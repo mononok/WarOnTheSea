@@ -1,0 +1,1 @@
+﻿{"unitName":"ウィチタ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ウィチタ"],"instancesInClass":["wichita"]}

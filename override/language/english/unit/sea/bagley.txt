@@ -1,0 +1,1 @@
+﻿{"unitName":"バッグレイ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["バッグレイ","ブルー","ヘルム","マグフォード","ラルフ・タルボット","ヘンリー","パターソン","ジャーヴィス"],"instancesInClass":["bagley","blue","helm","mugford","ralph talbot","henley","patterson","jarvis"]}

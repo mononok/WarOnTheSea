@@ -1,0 +1,1 @@
+﻿{"unitName":"カウンティ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ベリック","カンバーランド","サフォーク","ケント","コーンウォール","オーストラリア","キャンベラ","ロンドン","デヴォンシャー","サセックス","シュロップシャー","ノーフォーク","ドーセットシャー"],"instancesInClass":["berwick","cumberland","suffolk","kent","cornwall","australia","canberra","london","devonshire","sussex","shropshire","norfolk","dorsetshire"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"最上","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["最上","三隈","鈴谷","熊野"],"instancesInClass":["mogami","mikuma","suzuya","kumano"]}

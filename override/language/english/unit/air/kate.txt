@@ -1,0 +1,1 @@
+﻿{"unitName":"97艦攻","weaponDescriptions":["1x Type 92 machine gun"],"payloadDisplayNames":["1x Torpedo","1x 800kg Bomb","3x 250kg Bomb","None"],"payloadIndexes":["0","1","2"]}

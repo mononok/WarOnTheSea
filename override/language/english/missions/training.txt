@@ -1,0 +1,13 @@
+﻿introduction=序文 & 基本戦闘=6,6,1940=講習内容:<br>- カメラ操作と双眼鏡<br>- 銃の扱い方<br>- 魚雷のあ使い方<br>- ミッションの終わらせ方
+navigation=航法=8,6,1940=講習内容:<br>- 艦の操舵と航空機の操縦<br>- 航法とウェイポイント<br>- 地図の見方<br>- カメラモード
+gunnery=砲術=10,6,1940=講習内容:<br>- 副砲<br>- 設定<br>- 手動砲撃と and splitting fire<br>- Building firing solutions
+movingtarget=移動目標=10,6,1940=講習内容:<br>- 目標追跡<br>- Directors<br>- Building a firing solution<br>- センサーと探知
+damagecontrol=ダメージコントロール=16,6,1940=講習内容:<br>- 区画<br>- 浸水と対向処置<br>- 消火<br>- 装置の修理
+multiple=隊列=10,6,1940=講習内容:<br>- 戦闘前準備<br>- 編隊/艦隊<br>- 複数ユニットの一括操作
+submarine=潜水艦戦闘=18,6,1940=講習内容:<br>- 潜水艦の操作<br>- 敵潜水艦の探知方法<br>- 接敵と攻撃
+aircraft=航空攻撃=20,6,1940=講習内容:<br>- Aircraft damage<br>- 航空攻撃<br>- 編隊攻撃<br>- 単独攻撃
+bombing=航空攻撃上級編=21,6,1940=講習内容:<br>- 手動攻撃<br>- 爆撃手法<br>- コツ
+dogfight=ドッグファイト=23,6,1940=講習内容:<br>- 照準<br>- 攻撃指示<br>- 手動での撃墜
+editor=カスタムバトル=27,6,1940=講習内容:<br>- カスタムシナリオの設定<br>- 船舶・航空機の配置と編集
+campaign=キャンペーン: 序文=27,6,1940=講習内容:<br>- 戦略マップ<br>- 拠点br>- Recruiting ships<br>- 航空機の離陸
+cargo=キャンペーン: 積荷 & 基地=27,6,1940=講習内容:<br>- 艦砲射撃<br>- 部隊と物資の輸送<br>- 拠点制圧<br>- 飛行場と港湾の構築

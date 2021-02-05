@@ -1,0 +1,1 @@
+﻿{"unitName":"青葉","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["青葉","衣笠"],"instancesInClass":["aoba","kinugasa"]}

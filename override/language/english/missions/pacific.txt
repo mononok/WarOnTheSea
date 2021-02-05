@@ -1,0 +1,24 @@
+﻿sundastrait=バタビア沖海戦=1,3,1942=連合軍の巡洋艦隊は西ジャワ島に向け侵攻中の日本海軍輸送船団と遭遇した.
+coralsea=珊瑚海海戦: 一日目=7,5,1942=After an unsuccessful search for US carriers, Val dive bombers from the carrier Shōkaku return to attack a fleet oiler and its escort which had been sighted earlier that morning.
+coralsea8=珊瑚海海戦: 二日目=8,5,1942=Aircraft from the carriers Yorktown and Lexington spot the Japanese carrier force.
+midway4=ミッドウェー海戦, 一日目=4,6,1942=Yorktown is the target for multiple waves of Japanese aircraft launched from the carrier Hiryū.
+midway3=ミッドウェー海戦, 二日目=6,6,1942=Damaged from a collision the previous day, heavy cruisers Mikuma and Mogami make for Wake Island at slow speed. As daylight breaks, dive bombers from Enterprise and Hornet spot the ships.
+savoisland=第一次ソロモン海戦=8,8,1942=In response to US landings on Guadalcanal, a Japanese heavy cruiser force is in sent to attack the transports.
+eastsolomon=第二次ソロモン海戦=24,8,1942=Enterprise and her escorts come under heavy attack from enemy dive bombers during the Battle of the Eastern Solomons.
+santacruz=南太平洋海戦=27,10,1942=Japanese dive bombers and torpedo bombers commence their attack on the US carrier Hornet.
+capeesperance=サボ島沖海戦=11,11,1942=A US cruiser force is ready to intercept the next Japanese supply run to Guadalcanal. Instead they stumble into a cruiser force sent to bombard the airfield.
+guadalcanal1=第三次ソロモン海戦=13,11,1942=Japanese naval forces move in to bombard Henderson Field and destroy Allied aircraft defending Guadalcanal. Aware of the approaching ships, a US task force is deployed to intercept them.
+sinkinghiei=比叡の最後=13,11,1942=Crippled in action the night before, Hiei attempts to leave the area. As daylight breaks, US aircraft begin a relentless attack.
+sinkingjuneau=ジュノーの最後=13,11,1942=Damaged at the First Battle of Guadalcanal, three US cruisers retreat to New Hebrides for repairs when they are detected by an enemy submarine.
+guadalcanal2a=ガダルカナルの戦い=14,11,1942=Battleships South Dakota and Washington, are hastily assembled into a task force to defend Henderson Field on Guadalcanal.
+guadalcanal2b=ガダルカナルの戦い２=14,11,1942=As the battle continues, South Dakota and Washington face off against Kirishima and her heavy cruiser escort. Just as the ships engage, South Dakota loses electrical power.
+tassafaronga=ルンガ沖夜戦=30,11,1942=Japanese destroyers undertaking a supply run to Guadalcanal fend off a US cruiser force.
+rennellisland=レンネル島沖海戦=29,1,1943=A US task force escorting reinforcements to Guadalcanal comes under attack from land based bombers.
+rennellisland2=レンネル島沖海戦二日目=30,1,1943=Crippled by 2 aerial torpedo hits the previous evening, USS Chicago is under tow when additional land based bombers appear. Fighters from the nearby Enterprise are scrambled to defend the stricken cruiser.
+bismarcksea=ビスマルク海海戦=3,3,1943=Despite the threat of Allied air power, Japan sends a convoy to New Guinea in order to reinforce the southern perimeter of the empire.
+blackettstrait=ビラ・スタンモーア夜戦=6,3,1943=Japanese destroyers reinforce Vila on Kolombangara, but are attacked as they depart the area.
+kulagulf=クラ湾夜戦=6,7,1943=US ships engage a Japanese reinforcement group near Kolombangara in the Solomon Islands.
+vellagulf=ベラ湾=6,8,1943=A Japanese destroyer force carrying troops to reinforce Kolombangara in the Solomon Islands is ambushed by US destroyers.
+horaniu=第一次ベララベラ海戦=18,8,1943=Escorts from a Japanese convoy evacuating troops from Kolombangara in the Solomon Island come under attack from US destroyers.
+vellalavella=第二次ベララベラ海戦=6,10,1943=While evacuating some 600 troops from Vella Lavella, Japanese warships engage a group of US destroyers.
+stgeorge=セント・ジョージ岬沖海戦=25,11,1943=Allied destroyers intercept a Japanese destroyer group returning from having landed reinforcements on Buka Island.

@@ -1,0 +1,1 @@
+﻿{"unitName":"翔鶴","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["翔鶴","瑞鶴"],"instancesInClass":["shokaku","zuikaku"]}

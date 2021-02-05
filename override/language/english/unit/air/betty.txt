@@ -1,0 +1,1 @@
+﻿{"unitName":"一式陸攻","weaponDescriptions":["1x 20mm Type 99 cannon","4x 7.7mm Type 92 machine gun"],"payloadDisplayNames":["1x Torpedo","1x 800kg Bomb","4x 250kg Bomb","None"],"payloadIndexes":["0","1","2","3"]}

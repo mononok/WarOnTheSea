@@ -1,0 +1,1 @@
+﻿{"unitName":"グリッドレイ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["グリッドレイ","クレイヴン","マッコール","モーリー"],"instancesInClass":["gridley","craven","mccall","maury"]}

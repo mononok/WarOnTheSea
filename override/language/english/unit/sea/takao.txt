@@ -1,0 +1,1 @@
+﻿{"unitName":"高雄","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["高雄","愛宕","摩耶","鳥海"],"instancesInClass":["takao","atago","maya","chokai"]}

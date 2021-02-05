@@ -1,0 +1,1 @@
+﻿{"unitName":"ペンサコラ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ペンサコラ","ソルトレイクシティ"],"instancesInClass":["pensacola","salt lake city"]}

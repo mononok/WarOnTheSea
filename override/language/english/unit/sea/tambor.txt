@@ -1,0 +1,1 @@
+﻿{"unitName":"タンバー","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["タンバー","トートグ","スレッシャー","トライトン","トラウト","ツナ","ガー","グランパス","グレイバック","グレイリング","グレナディアー","ガジョン"],"instancesInClass":["tambor","tautog","thresher","triton","trout","tuna","gar","grampus","grayback","grayling","grenadier","gudgeon"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"ブルックリン","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ブルックリン","フィラデルフィア","サバンナ","ナッシュビル","フェニックス","ボイシ","ホノルル","セントルイス","ヘレナ"],"instancesInClass":["brooklyn","philadelphia","savannah","nashville","pheonix","boise","honolulu","st. louis","helena"]}

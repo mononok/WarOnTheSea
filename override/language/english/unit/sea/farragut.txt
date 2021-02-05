@@ -1,0 +1,1 @@
+﻿{"unitName":"ファラガット","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ファラガット","デューイ","ハル","マクドノー","ウォーデン","デイル","モナハン","エールウィン"],"instancesInClass":["farragut","dewey","hull","mcdonough","worden","dale","monaghan","aylwin"]}

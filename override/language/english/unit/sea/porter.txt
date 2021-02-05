@@ -1,0 +1,1 @@
+﻿{"unitName":"ポーター","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ポーター","セルフリッジ","マクダガル","ウィンスロー","フェルプス","クラーク","モフェット","バルチ"],"instancesInClass":["porter","selfridge","mcdougal","winslow","phelps","clark","moffett","balch"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"サウスダコタ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["サウスダコタ","インディアナ","マサチューセッツ","アラバマ"],"instancesInClass":["south dakota","indiana","massachusetts","alabama"]}

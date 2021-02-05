@@ -1,0 +1,1 @@
+﻿{"unitName":"朝潮","namesInClass":["朝潮","大潮","満潮","荒潮","朝雲","山雲","夏雲","峯雲","霰","霞"],"instancesInClass":["asashio","oshio","michishio","arashio","asagumo","yamagumo","natsugumo","minegumo","arare","kasumi"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"峯風","namesInClass":["峯風","澤風","沖風","島風","灘風","矢風","羽風","汐風","秋風","夕風","太刀風","帆風","野風","波風","沼風"],"instancesInClass":["minekaze","sawakaze","okikaze","shimakaze","nadakaze","yakaze","hakaze","shiokaze","akikaze","yūkaze","tachikaze","hokaze","nokaze","namikaze","numakaze"]}

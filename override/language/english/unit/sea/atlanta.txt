@@ -1,0 +1,1 @@
+﻿{"unitName":"アトランタ","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["アトランタ","ジュノー","サンディエゴ","サンファン","オークランド","リノ","フリント","ツーソン"],"instancesInClass":["atlanta","juneau","san diego","san juan","oakland","reno","flint","tucson"]}

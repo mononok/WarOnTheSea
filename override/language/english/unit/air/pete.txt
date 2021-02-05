@@ -1,0 +1,1 @@
+﻿{"unitName":"零式水観","weaponDescriptions":["1x Type 92 machine gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"99艦爆","weaponDescriptions":["2x Type 97 machine gun", "1x Type 92 machine gun"],"payloadDisplayNames":["1x 250kg, 2x 60kg Bomb","None"],"payloadIndexes":["0","1"]}

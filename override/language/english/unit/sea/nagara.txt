@@ -1,0 +1,1 @@
+﻿{"unitName":"長良","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["長良","五十鈴","名取","由良","鬼怒","阿武隈"],"instancesInClass":["nagara","isuzu","natori","yura","kinu","abukuma"]}

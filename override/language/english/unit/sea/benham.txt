@@ -1,0 +1,1 @@
+﻿{"unitName":"ベンハム","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ベンハム","エレット","ラング","メイラント","トリップ","リンド","ローワン","スタック","スタレット","ウィルソン"],"instancesInClass":["benham","ellet","lang","mayrant","trippe","rhind","rowan","stack","sterett","wilson"]}

@@ -1,0 +1,1 @@
+﻿{"unitName":"ポートランド","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ポートランド","インディアナポリス"],"instancesInClass":["portland","indianapolis"]}

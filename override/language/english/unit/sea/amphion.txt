@@ -1,0 +1,1 @@
+﻿{"unitName":"パース","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ホバート","パース","シドニー"],"instancesInClass":["hobart","perth","sydney"]}

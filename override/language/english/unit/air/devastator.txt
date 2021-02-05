@@ -1,0 +1,1 @@
+﻿{"unitName":"デバステーター","weaponDescriptions":["2x Browning machine gun"],"payloadDisplayNames":["1x Torpedo","1x 1000lb Bomb","2x 500lb Bomb","None"],"payloadIndexes":["0","1","2"]}

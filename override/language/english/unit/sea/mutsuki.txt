@@ -1,0 +1,1 @@
+﻿{"unitName":"睦月","namesInClass":["睦月","如月","卯月","皐月","水無月","文月","長月","菊月","三日月","望月","夕月"],"instancesInClass":["mutsuki","kisaragi","uzuki","satsuki","minazuki","fumizuki","nagatsuki","kikuzuki","mikazuki","mochizuki","yuzuki"]}

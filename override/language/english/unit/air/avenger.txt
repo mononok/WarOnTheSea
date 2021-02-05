@@ -1,0 +1,1 @@
+﻿{"unitName":"アベンジャー","weaponDescriptions":["1x Browning M2 machine gun","2x Browning M1919 machine gun"],"payloadDisplayNames":["1x Torpedo","Bomb AP","Bomb HE","Rocket","Depth Charge","None"],"payloadIndexes":["0","1","2","3","4","5"]}

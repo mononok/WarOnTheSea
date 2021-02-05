@@ -1,0 +1,1 @@
+﻿{"unitName":"夕雲","namesInClass":["夕雲","巻雲","風雲","長波","巻波","高波","大波","清波","玉波","涼波","藤浪","早波","浜波","沖波","岸波","朝霜","早霜","秋霜","清霜"],"instancesInClass":["yugumo","makigumo","kazagumo","naganami","makinami","takanami","onami","kiyonami","tamanami","suzunami","fujinami","hayanami","hamanami","okinami","kishinami","asashimo","hayashimo","akishimo","kiyoshimo"]}

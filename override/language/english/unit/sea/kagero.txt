@@ -1,0 +1,1 @@
+﻿{"unitName":"陽炎","namesInClass":["陽炎","不知火","黒潮","親潮","早潮","夏潮","初風","雪風","天津風","時津風","浦風","磯風","浜風","谷風","野分","嵐","萩風","舞風","秋雲"],"instancesInClass":["kagero","shiranui","kuroshio","oyashio","hayashio","natsushio","hatsukaze","yukikaze","amatsukaze","tokitsukaze","urakaze","isokaze","hamakaze","tanikaze","nowaki","arashi","hagikaze","maikaze","akigumo"]}
