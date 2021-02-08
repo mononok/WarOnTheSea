@@ -1,2 +1,2 @@
-﻿campaign001=ウオッチタワー作戦=7,8,1942=Control the Allies to expel all enemy troops from the southern Solomon Islands, build an airfield on Guadalcanal and prevent any further Japanese expansion to the south.
-campaign002=ガダルカナル島の戦い=7,8,1942=As Imperial Japan, complete construction of an airfield on Guadalcanal and ensure the Allies gain no foothold in the southern Solomon Islands.
+﻿campaign001=ウオッチタワー作戦=7,8,1942=連合軍を指揮して南ソロモン諸島から全ての敵兵を叩き出し,ガダルカナル島に飛行場を建設して日本の南方進出を阻止しなければならない.
+campaign002=ガダルカナル島の戦い=7,8,1942=大日本帝国はガダルカナル島に飛行場を完成させ南ソロモン諸島での連合軍の足がかりを完全に断つことを目的とする.

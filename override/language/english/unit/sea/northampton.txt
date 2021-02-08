@@ -1,1 +1,1 @@
-﻿{"unitName":"ノーザンプトン","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ノーザンプトン","チェスター","ルイビル","シカゴ",ヒューストン","オーガスタ"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}
+﻿{"unitName":"ノーザンプトン","weaponDescriptions":["40mm Bofors Guns","20mm Oerlikon Guns"],"namesInClass":["ノーザンプトン","チェスター","ルイビル","シカゴ","ヒューストン","オーガスタ"],"instancesInClass":["northampton","chester","louisville","chicago","houston","augusta"]}

@@ -1,1 +1,1 @@
-﻿battleceylon=セイロン沖海戦=5,4,1942=A Japanese carrier force sorties into the Indian Ocean and launches an attack on the British naval base at Colombo, Ceylon. Two Royal Navy heavy cruisers come under attack from dive bombers launched from the carrier Akagi.
+﻿battleceylon=セイロン沖海戦=5,4,1942=日本の機動部隊はインド洋に展開しセイロンのコロンボにある英海軍基地への攻撃を開始する.二隻の英海軍重巡洋艦は空母赤城より発艦した急降下爆撃の攻撃を受ける.

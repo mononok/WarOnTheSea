@@ -209,7 +209,7 @@ evading=Evading hazard
 depthChargeTarget=Depth Charge on
 noAction=無し
 
-WeatherNames=晴れ,曇り(30%),曇り(50%),曇り(全天),雨,嵐,雪,吹雪
+WeatherNames=晴れ,薄曇,千切れ雲,曇天,雨,嵐,雪,吹雪
 
 Continue=続ける
 
