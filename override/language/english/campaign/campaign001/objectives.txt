@@ -19,6 +19,6 @@
 3) 次を支配下に起き続けること:
    - <color=#caa809>ポートモレスビー</color>
    - <color=#caa809>ミルン湾</color>
-   - <color=#caa809>レンネル島</color>
-   - <color=#caa809>サンタクルーズ島</color>
-   - <color=#caa809>マライタ島</color>
+   - <color=#caa809>レンネル</color>
+   - <color=#caa809>サンタクルーズ</color>
+   - <color=#caa809>マライタ</color>
