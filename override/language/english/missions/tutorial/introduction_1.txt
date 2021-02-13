@@ -1,0 +1,21 @@
+﻿Image={"path":"interface/tutorial/secondToolbar.png","pos":{"x":260.0,"y":-67.0}}
+Image={"path":"interface/tutorial/cameraDir.png","pos":{"x":224.0,"y":-122.0}}
+Image=
+<b>カメラ操作と双眼鏡</b>
+カメラを動かす練習をします。
+パン：<KEY：DragCamera> してドラッグ、又は<KEY：CameraLeft>、<KEY：CameraRight>、<KEY：CameraUp>、<KEY：CameraDown> を使用します。
+ズーム：<KEY：MouseWheel> または<KEY：ZoomIn>と<KEY：ZoomOut>を使用します。
+水中の切り替え：<KEY：SwitchUnderwater> を使用して前後に切り替えます。
+<KEY：CameraDown>を押したままにして、カメラをパンして上向きにします。
+
+双眼鏡をの使い方。
+<KEY：Binoculars> を使用し、双眼鏡ビューに入る（または出る）。
+同じようにパン、ズーム、水中切り替えコマンド（上記と同じ）を使用して、双眼鏡ビューでカメラを移動します。
+水中に切り替えると、両眼視がキャンセルされます。
+
+双眼鏡と水中トグルのボタンは、ミニマップの下のセカンダリツールバーにあります。
+
+画面の上部中央には、カメラが向いている真の方位（方向）が表示されます。
+0 =北、90 =東、180 =南、270 =西。
+
+準備ができたら、次の矢印を使用して続行します。
