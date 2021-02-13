@@ -2,11 +2,11 @@
 Image=
 Image=
 <b>航空機操縦</b>
-航空機の操縦は、高度を変更できることを除いて、艦船と同じです（同様に、潜水艦は深度を変更できます）。
-<KEY：MoveUp>と<KEY：MoveDown>を使用して高度を変更します。
-<KEY：IncreaseSpeed>、<KEY：DecreaseSpeed>、<KEY：LeftRudder>、<KEY：RightRudder>、<KEY：ZeroControls>を使用して、速度とステアリングも調整します。
-命令パネル<KEY：Orders> から直接速度、旋回、高度を設定することもできます。
+航空機の操縦は,高度を変更できることを除いて,艦船と同じです(同様に,潜水艦は深度を変更できます).
+<KEY:MoveUp>と<KEY:MoveDown>を使用して高度を変更します.
+<KEY:IncreaseSpeed>,<KEY:DecreaseSpeed>,<KEY:LeftRudder>,<KEY:RightRudder>,<KEY:ZeroControls>を使用して,速度とステアリングも調整します.
+命令パネル<KEY:Orders> から直接速度,旋回,高度を設定することもできます.
 
 練習
-1）高度、速度、旋回を変更します。
-2）航法モード<KEY：NavigationMode>に入り、マップ上を <KEY：LeftMouse> して航法ウェイポイントを設定します。
+1)高度,速度,旋回を変更します.
+2)航法モード<KEY:NavigationMode>に入り,マップ上を <KEY:LeftMouse> して航法ウェイポイントを設定します.
