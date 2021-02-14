@@ -3,7 +3,7 @@ Image={"path":"interface/tutorial/cameraDir.png","pos":{"x":224.0,"y":-122.0}}
 Image=
 <b>カメラ操作と双眼鏡</b>
 カメラを動かす練習をします.
-パン: <KEY:DragCamera> してドラッグ, 又は <KEY:CameraLeft>, <KEY:CameraRight>, <KEY:CameraUp>, <KEY:CameraDown> を使用します.
+パン: <KEY:DragCamera> でドラッグ, 又は <KEY:CameraLeft>, <KEY:CameraRight>, <KEY:CameraUp>, <KEY:CameraDown> を使用します.
 ズーム: <KEY:MouseWheel> または <KEY:ZoomIn> と <KEY:ZoomOut> を使用します.
 水面下映像: <KEY:SwitchUnderwater> を使用して映像を切り替えます.
 <KEY:CameraDown>を押したままにして,カメラをパンして上向きにします.
