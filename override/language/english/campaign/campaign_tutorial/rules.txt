@@ -1,0 +1,3 @@
+﻿<b><size=18>ルール</size></b>\n\n自国<NATIONS0>\n\n敵国<NATIONS1>\n\n自国の母港<HOMES>\n最大港湾レベル\n最大飛行場レベル\n\n<b>コマンドポイント</b>\n開始時\n艦籍離脱時の還付率\n敵艦撃沈時\n\n<b>補充資源</b>\n母港の受領\n部隊\n補給\n工兵\n燃料\n\n<b>艦船修理時間</b>\n基本修理日数\n破壊された1区画毎の追加日数\n\n<b>航空作戦</b>\n作戦不能時間
+<b><size=18> </size></b>\n\n<NATIONS0>\n\n<NATIONS1>\n\n<HOMES>\n<MAXPORT>\n<MAXAIRFIELD>\n\n\n<COMMANDSTART>\n<COMMANDRELEASE>\n<COMMANDONSUNK>\n\n\n<FREQUENCY>\n<RTROOPS>\n<RSUPPLIES>\n<RENGINEER>\n<RFUEL>\n\n\n<REPAIRTIME>\n<REPAIRCOMP>\n\n\n<AIRHOURS>
+<b><size=18>拠点</size></b>\n\n<b>ランク												1					2					3					4					5</b>\n\n<b>改修費用</b>\n補給\n工兵\n燃料\n\n<b>港湾ボーナス</b>\n探知距離\n艦船への再武装\n艦籍の離脱\n\n<b>飛行場ボーナス</b>\n探知距離\n<AIRCRAFT>\n\n\nランク０の友軍拠点の探知距離は <BASESPOT> です.\n港湾と飛行場のボーナスは重複して加算します.\n探知距離は時間と天候によって減じられます.
