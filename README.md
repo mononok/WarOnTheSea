@@ -1,6 +1,9 @@
 # WarOnTheSea
 War on the Sea 日本語化ファイル
 
+リリース日：2021/03/08
+バージョン：v1.08c
+
 ## 概要
 
 War on the Sea を日本語化するテキストファイルです。
