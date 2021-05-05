@@ -31,3 +31,5 @@ torpedo_markix=Mark IX
 torpedo_type91=91式魚雷
 torpedo_type93=93式魚雷
 torpedo_type95=95式魚雷
+torpedo_type96=96式魚雷
+Depth_Charge=爆雷

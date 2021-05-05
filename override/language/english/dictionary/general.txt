@@ -182,12 +182,12 @@ AltDirector=副射撃指揮所
 Settings=射撃命令
 Target=目標:
 Solution=解析:
+NoSolution=無し\nインターセプト
 StopTracking=停止
 
 UnitTypes=潜水艦,護衛駆逐艦,駆逐艦,軽巡洋艦,重巡洋艦,巡洋戦艦,戦艦,軽空母,空母,油槽艦,貨物船,偵察機,戦闘機,急降下爆撃機,雷撃機,中爆撃機,重爆撃機
 UnitTypeAbbreviations=SS,DE,DD,CL,CA,BC,BB,CVE,CV,AO,MS,S,F,DB,TB,MB,HB
 ShellTypes=AP,HE,SS
-
 
 GunDisplay=型式\n門数\n口径\n射程\n高角砲用途\n再装填時間
 TorpedoDisplay=型式\n門数\n射程\n速力\n再装填時間
@@ -233,8 +233,8 @@ SensorsArmor=装甲・センサー
 CounterFlood=反対舷注水区画
 AutoDC=ダメコン自動実行
 SwitchSeaAir=海/空切り替え
-FilterNation=国別にフイルタ
-FilterSubtype=種別にフィルタ
+FilterNation=国別フィルタ
+FilterSubtype=副種別フィルタ
 SelectAll=全選択/全解除
 SelectSeaClass=艦級選択
 SelectAirClass=機種選択
@@ -266,6 +266,7 @@ PlayerFriendly=Player Ship Friendly Fire
 PlayerSeaCol=Player Ship Collisions
 DudTorpedoes=Dud Torpedoes
 DudBombs=Dud Bombs
+StratMapSpeed=Simple Camp. Map Drag
 UseMetric=Metric Measurements
 UnlimitedCamera=Unlimited Camera
 DifficultyCombat=戦闘・難易度
@@ -356,15 +357,15 @@ CRepairsHeaders=名前||級と種別||||修理日数||
 CTotalShips=総沈没数:
 CTotalTons=総沈没トン数:
 CTotalAircraft=総損失機数:
-CMobileOrders1=交換|分割|合併|離脱
-CMobileOrders2=荷物|航空機|艦砲射撃|全荷物下し|弾薬補充
+CMobileOrders1=配置交換|グループ分割|グループ合併|艦離脱
+CMobileOrders2=荷物管理|航空機発艦|艦砲射撃|全荷物下し|弾薬補充
 CMobileCourse=コース
 CMobileSplit=分割
 CMobileMerge=合併
 CMobileDisband=離脱
 CMobileSwap=交換
 CMobileCargo=積荷
-CMobileWorld=3D実行
+CMobileWorld=戦術指揮
 CMobileAirStrike=航空機
 CMobileUnload=荷物積下
 CMobileRemove=削除
@@ -425,6 +426,7 @@ Months=1月|2月|3月|4月|5月|6月|7月|8月|9月|10月|11月|12月
 Years=1938|1946
 DecimalDegrees=約10進数角表示
 ClearAll=全消去
+
 ClearOptions=オプションをデフォルトにリセットし、再起動しますか？
 
 [PAUSE]
