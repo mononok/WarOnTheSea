@@ -272,6 +272,8 @@ UnlimitedCamera=Unlimited Camera
 DifficultyCombat=戦闘・難易度
 DifficultyCampaign=キャンペーン・難易度
 DifficultyOptions=とても易しい,易しい,普通,難しい,エリート級
+SonarSensitivity=ソナー感度
+SonarSensitivityOptions=1x,2x,3x,4x
 
 Difficulty=DIFFICULTY
 DifficultyTitles=Modifier (Default 1)				Player			Enemy
