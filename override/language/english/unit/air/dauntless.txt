@@ -1,1 +1,1 @@
-﻿{"unitName":"ドーントレス","weaponDescriptions":["2x Browning M2 machine gun","2x Browning machine gun"],"payloadDisplayNames":["1x 1000lb, 2x 100lb Bomb","None"],"payloadIndexes":["0","1"],"endurance":[0.67,1]}
+﻿{"unitName":"ドーントレス","weaponDescriptions":["Guns|4x Machine Gun","|","Payloads|bomb_us_1000lb_ap","|bomb_us_1000lb","|bomb_us_100lb"],"payloadDisplayNames":["1x 1000lb AP, 2x 100lb HE Bomb","1x 1000lb HE, 2x 100lb HE Bomb","None"],"payloadIndexes":["0","1","2"],"endurance":[0.67,0.67,1]}

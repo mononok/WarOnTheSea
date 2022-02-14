@@ -1,1 +1,1 @@
-﻿{"unitName":"ウォーラス","weaponDescriptions":["2x Vickers K machine gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"ウォーラス","weaponDescriptions":["Guns|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

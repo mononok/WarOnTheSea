@@ -1,1 +1,1 @@
-﻿{"unitName":"キングフィッシャー","weaponDescriptions":["2x Browning machine gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"キングフィッシャー","weaponDescriptions":["Guns|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

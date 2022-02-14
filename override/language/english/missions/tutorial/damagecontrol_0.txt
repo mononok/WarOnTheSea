@@ -3,7 +3,7 @@ Image={"path":"interface/tutorial/dcStatus.png","pos":{"x":258.0,"y":0.0}}
 Image=
 Image=
 <b>ダメージコントロール</b>
-<KEY:DamageControl> を使うか,ツールバーボタンから開きます(艦船と潜水艦のみ使用可).
+<KEY:DamageControl> を使うか,ツールバーボタンからダメコン開きます(艦船と潜水艦のみ使用可).
 3つのセクションに分かれています：
 
 1) ステータス

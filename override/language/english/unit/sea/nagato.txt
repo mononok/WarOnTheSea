@@ -1,0 +1,1 @@
+﻿{"unitName":"長門","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["長門","陸奥"],"instancesInClass":["nagato","mutsu"]}

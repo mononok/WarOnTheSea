@@ -1,1 +1,1 @@
-﻿{"unitName":"阿賀野","weaponDescriptions":["Type 96 25mm Guns","Type 93 13.2mm Guns"],"namesInClass":["阿賀野","能代","矢作","酒匂"],"instancesInClass":["agano","noshiro","yhagi","sakawa"]}
+﻿{"unitName":"阿賀野","weaponDescriptions":["96式 25mm Guns","93式 13.2mm Guns"],"namesInClass":["阿賀野","能代","矢作","酒匂"],"instancesInClass":["aagaganono","noshiro","yhagi","sakawa"]}

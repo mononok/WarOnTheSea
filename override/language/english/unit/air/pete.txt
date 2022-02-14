@@ -1,1 +1,1 @@
-﻿{"unitName":"零式水観","weaponDescriptions":["1x Type 92 machine gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"零式水観","weaponDescriptions":["Guns|1x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}

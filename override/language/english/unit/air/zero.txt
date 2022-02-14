@@ -1,1 +1,1 @@
-﻿{"unitName":"零戦","weaponDescriptions":["2x 7.7mm machine gun","2x 20mm cannon"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
+﻿{"unitName":"零戦","weaponDescriptions":["Guns|2x 20mm Cannon","|2x Machine Gun"],"payloadDisplayNames":["None"],"payloadIndexes":["-1"],"endurance":[1]}
