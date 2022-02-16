@@ -93,7 +93,7 @@ Rearmed=audio/ui/Click2
 NoDisbandHighlight=指揮下より離脱する１隻以上の船を選択してください.
 NoDisbandHighlight=audio/ui/AlarmBlip
 ShipsReleased=選択した艦船は指揮下より離脱しました.
-ShipsReleasedaudio/ui/Click2
+ShipsReleased=audio/ui/Click2
 NoBombard=艦砲射撃を行うには敵拠点より<0>以内でなければなりません.
 NoBombard=audio/ui/AlarmBlip
 NoBombardClass=戦艦,巡洋戦艦,重巡洋艦のみが艦砲射撃を行えます.
