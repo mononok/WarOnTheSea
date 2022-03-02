@@ -1,7 +1,17 @@
-﻿australia=豪州
+﻿usa=米国
 britain=英国
+australia=豪州
 japan=日本
-usa=米国
+germany=第三帝国
+italy=伊太利
+france=仏国
+sovietUnion=ソ連
+netherlands=阿蘭陀
+canada=加国
+poland=波蘭
+finland=芬蘭
+thailand=タイ
+
 
 distanceUnits=㍉|㍍|㌖|"|'|㍎|㌋
 tons= ㌧
@@ -255,6 +265,8 @@ RadarToggle=レーダー
 ActiveSonarToggle=アクティブソナー
 SearchlightToggle=探照灯
 
+IntelSea=艦名|針路:|速力:|推定:|(船団)
+
 //Main Menu
 Training=トレーニング
 SingleMission=シングルミッション
@@ -420,8 +432,9 @@ NewMapNote=新マップノート
 CEngagementHeader=遭遇
 CEngagementTitles=グループ:|日付:|時刻:|天候:|海況:
 CIgnore=無視
+CAutoResolve=自動
 CStartEngagement=交戦
-CGoTo=GOTO
+CGoTo=GO TO
 
 CombatLoad=ゲーム読込
 CombatSave=ゲーム保存
