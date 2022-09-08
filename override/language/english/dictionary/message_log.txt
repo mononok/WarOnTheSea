@@ -175,3 +175,7 @@ LeftCombat=<UNITA> は交戦海域を離脱した!
 LeftCombat=audio/ui/AlarmLow
 AirDowned=<UNITA> は墜落した
 AirDowned=audio/ui/AlarmLow
+KamikazeAttack=<UNITA> は <UNITB> に神風攻撃を試みている
+KamikazeAttack=audio/ui/Click2
+KamikazeHit=<UNITA> は神風攻撃を受けた
+KamikazeHit=audio/ui/AlarmLow
