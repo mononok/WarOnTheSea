@@ -96,7 +96,7 @@ DownScope=audio/ui/mast
 TorpsInWater=<UNITB>より魚雷の航走痕を報告, 方位 <BRG>!
 TorpsInWater=audio/ui/AlarmHigh
 [WEAPONS]
-TorpedoFire=<UNITA> は 魚雷 <0>本を発射, スプレッド <1>
+TorpedoFire=<UNITA> は 魚雷 <0>本を発射, 散布界 <1>
 TorpedoInGyro=発射不能, 近すぎて魚雷の旋回半径に収まらない
 TorpedoInGyro=audio/ui/AlarmLow
 TorpMountsFiring=<UNITA> 選択した魚雷発射管は既に発射済み

@@ -1,4 +1,4 @@
-﻿9
+﻿11
 Image={"path":"interface/tutorial/roster.png","pos":{"x":230.0,"y":-88.0}}
 Image=
 Image=
@@ -13,10 +13,10 @@ Image=
 ユニット名一覧
 全友軍ユニットは,左下メッセージログの上に一覧表示されます.
 - 操作ユニットは常に黄色で強調表示されます.
-- 星アイコンは,他艦船を追従又は,隊列に組み込まれていない指揮艦です.
-- Colored tabs (red) shows Lead Unit and all other units folling it.
+- 星アイコンは旗艦で,他艦船を追従又は,隊列に組み込まれていません.
+- 色のついたタブ(赤)は,旗艦と追従艦グループです.
 - 追加のユニットはタブを<KEY:LeftMouse>して選択/選択解除できます.
 - タブ内の矢印アイコンを<KEY:LeftMouse>して,操作をそのユニットに切り替えられます.
-- <KEY:LeftMouse> colored tab (red) will select all units within a group.
+- 色のついたタブ(赤)を<KEY:LeftMouse>して,グループ内の艦を選択できます.
 - 海/空切り替えボタンは,艦船と航空機に切り替えます.
 - 全選択ボタンは,表示されているすべてのユニットを選択または選択解除します.

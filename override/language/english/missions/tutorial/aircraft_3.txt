@@ -17,4 +17,4 @@ Image=
 Be careful not to bunch up a formation making it susceptible to anti-aircraft fire or enemy fighters!
 
 <i>既に編隊を組んでいるか,又は散開している時に有効です.</i>
-<i>Best used with loose or spaced out formations so as not to bunch up your aircraft.</i>
+<i>各機体をゆったりとしたフォーメーションで編隊を組むのがベストです.</i>

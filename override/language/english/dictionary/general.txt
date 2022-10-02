@@ -302,10 +302,10 @@ DifficultyOptions=とても易しい,易しい,普通,難しい,エリート級
 SonarSensitivity=ソナー感度
 SonarSensitivityOptions=1x,2x,3x,4x
 
-AISubmarines=Enemy Uses Submarines
-AICarriers=Enemy Uses Aircraft Carriers
-ReplenishCarriers=New Carrier Aircraft Require Release
-RefundPostRepair=Refund Command Points Post Rest & Repair
+AISubmarines=敵は潜水艦を運用する
+AICarriers=敵は空母を運用する
+ReplenishCarriers=新空母艦載機はリリースが必要
+RefundPostRepair=休養と補給でコマンドポイントを払い戻す
 
 Difficulty=DIFFICULTY
 DifficultyTitles=Modifier (Default 1)				Player			Enemy
